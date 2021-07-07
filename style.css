@@ -2,9 +2,11 @@
     box-sizing: border-box;
 }
 
-body {  
-background-image:url('Lonely_99'); 
-background-size: 100% auto;
+body {
+background-image: url(Lonely_99.jpg);
+background-attachment: fixed;
+background-position: top right;
+background-repeat: no-repeat;
 }
 
 #miVideo {
