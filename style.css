@@ -1,7 +1,11 @@
 *{
     box-sizing: border-box;
 }
- 
+ div {
+  background-image: url("kulero.jpg");
+  background-attachment: fixed;
+  overflow: scroll;
+}
     
 
 
