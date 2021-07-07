@@ -1,13 +1,13 @@
 *{
     box-sizing: border-box;
 }
-<body {background-image:url("kulero.jpg"); style=\"background-image: url(kulero.jpg); background-repeat: no-repeat;\"}>
+< body {background-image:url("kulero.jpg"); style=\"background-image: url(kulero.jpg); background-repeat: no-repeat;\" position: fixed;} >
     
 
 
 
 #miVideo {
-    position: fixed;
+    
     right: 0;
     bottom: 0;
     min-width: 100%;
