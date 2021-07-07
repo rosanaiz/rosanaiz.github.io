@@ -3,10 +3,7 @@
 }
 
 body {
-background-image: url(kulero.jpg);
-background-attachment: fixed;
-background-position: top right;
-background-repeat: no-repeat;
+background: url('kulero.jpg') no-repeat;
 }
 
 #miVideo {
