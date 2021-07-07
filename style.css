@@ -3,9 +3,10 @@
 }
 
 body {
-
-  background: url('kulero.jpg') no-repeat fixed center 0;
-
+background-image: url(kulero.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
 }
 
 
