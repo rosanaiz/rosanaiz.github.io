@@ -1,8 +1,8 @@
 *{
     box-sizing: border-box;
 }
-<body style="background-image: url('kulero.jpg'); background-repeat: no-repeat; background-position: center; background-attachment: scroll;"> nombre de color <br><br><br></body>
-    
+BODY { background: white url(kulero.jpg);
+       background-attachment: fixed }
 
 
 
