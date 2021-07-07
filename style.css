@@ -1,7 +1,11 @@
 *{
     box-sizing: border-box;
 }
-<body background="kulero.jpg" bgproperties="fixed">
+body {
+
+  background: #000 url('kulero.jpg') no-repeat fixed center 0;
+
+}
 
 
 #miVideo {
