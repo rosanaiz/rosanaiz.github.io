@@ -16,6 +16,7 @@ body{
     width: auto;
 }
 img {
+    postion: center;
     height:auto;
     width:80vw;
 
