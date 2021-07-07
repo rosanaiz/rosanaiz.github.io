@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
 }
-< body
+<body 
  div {
   background-image: url("kulero.jpg");
   background-attachment: fixed;
