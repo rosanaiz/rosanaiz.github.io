@@ -1,7 +1,10 @@
 *{
     box-sizing: border-box;
 }
- body {background-image:url("kulero.jpg"); style=\"background-image: url(kulero.jpg); background-repeat: no-repeat;\"}
+ body {
+  background-color: #ffdd90;
+  background-image: url("kulero.jpg");
+}
     
 
 
