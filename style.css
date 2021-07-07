@@ -15,7 +15,7 @@ body{
     height: auto;
     width: auto;
 }
-#miImg {
+.miImg {
     height:1366px;
     width:768px;
 
