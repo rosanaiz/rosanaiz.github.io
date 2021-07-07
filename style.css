@@ -2,9 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
-background: url('kulero.jpg') no-repeat;
-}
+body 
 
 #miVideo {
     position: fixed;
