@@ -28,12 +28,13 @@ img {
 }
 a {
 	font-famili:"Arial";
-	font-size:15px;
+	font-size:18px;
 	padding-top:300px;
 	text-decoration:none;
 	color:#fff;
 }
 footer {
+	font-size:14px;
 	paddint-top: 80px;
 	color:#fff;
 }
